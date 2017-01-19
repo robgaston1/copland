@@ -44,7 +44,7 @@ ul li {
 }
 
 ol {
-    text-align: center;
+    text-align: left;
 }
 
 .copland-content {
@@ -61,19 +61,13 @@ h2 {
     margin-top: 30px;
 }
 
-#favorite {
-    float: left;
-}
-
 #works {
     width: 300px;
     margin: auto;
-}
-
-#drawing {
-    
+    float: left;
 }
 
 #portrait {
-    height: 150px;
+    height: 200px;
+    float:right;
 }
