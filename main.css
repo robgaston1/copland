@@ -26,10 +26,12 @@ p {
     padding-bottom: 15px;
     border-style: double;
     border-width: 5px;
+    width: 65%;
 }
 
 .main-image img {
     margin-bottom: 10px;
+    width: 100%
 }
 
 ul {
