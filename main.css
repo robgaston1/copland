@@ -1,0 +1,79 @@
+
+body {
+    background-color: #707377;
+    color: white;
+    text-align: center;
+    font-family: monotype;
+}
+
+h1 {
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-style: italic;
+    text-align: left;
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.main-image {
+    display: inline-block;
+    margin-top: 20px;
+    padding-bottom: 15px;
+    border-style: double;
+    border-width: 5px;
+}
+
+.main-image img {
+    margin-bottom: 10px;
+}
+
+ul {
+    width: 30%;
+    margin: auto;
+    list-style: none;
+}
+
+ul li {
+    font-size: 18px;
+    line-height: 1.3em;
+}
+
+ol {
+    text-align: center;
+}
+
+.copland-content {
+    width: 70%;
+    margin: 35px auto;
+}
+
+a {
+    color: #2517ed;
+    text-decoration: underline;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+#favorite {
+    float: left;
+}
+
+#works {
+    width: 300px;
+    margin: auto;
+}
+
+#drawing {
+    
+}
+
+#portrait {
+    height: 150px;
+}
